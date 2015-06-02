@@ -1,3 +1,8 @@
+/*******************************************************
+ * Copyright (C) 2015 Haotian Wu
+ * 
+ * Redistribution and use in source and binary forms are permitted.
+ *******************************************************/
 /* returns (base**exp) % mod. */
 int exp_mod(int base, int exp, int mod)
 {
